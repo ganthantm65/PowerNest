@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ganthantm65.github.io/PowerNest/sitemap.xml
